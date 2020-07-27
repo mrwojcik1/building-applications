@@ -16,9 +16,6 @@
   "dependencies": {
     "express": "^4.17.1"
   },
-  "postCommit": {
-    "script": "file.py"
-  },
   "bugs": {
     "url": "https://github.com/mrwojcik1/building-applications/issues"
   },
