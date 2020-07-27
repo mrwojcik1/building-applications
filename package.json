@@ -9,11 +9,19 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/mrwojcik1/building-applications.git"
+    "url": "git+https://github.com/mrwojcik1/building-applications.git"
   },
   "author": "Lucas Sabalo",
   "license": "ISC",
   "dependencies": {
     "express": "^4.17.1"
-  }
+  },
+  "postCommit": {
+    "script": "file.py"
+  },
+  "bugs": {
+    "url": "https://github.com/mrwojcik1/building-applications/issues"
+  },
+  "homepage": "https://github.com/mrwojcik1/building-applications#readme",
+  "keywords": []
 }
