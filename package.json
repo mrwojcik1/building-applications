@@ -14,7 +14,7 @@
   "author": "Lucas Sabalo",
   "license": "ISC",
   "dependencies": {
-    "express": "^4.17.1"
+    "express": "^4.17.3"
   },
   "bugs": {
     "url": "https://github.com/mrwojcik1/building-applications/issues"
